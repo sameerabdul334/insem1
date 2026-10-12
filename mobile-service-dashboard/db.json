@@ -1,0 +1,44 @@
+{
+  "requests": [
+    {
+      "id": 101,
+      "customer": "Rahul Sharma",
+      "phone": "Samsung Galaxy A54",
+      "issue": "Screen Damage",
+      "status": "Pending",
+      "date": "2026-10-10"
+    },
+    {
+      "id": 102,
+      "customer": "Priya Reddy",
+      "phone": "iPhone 13",
+      "issue": "Battery Problem",
+      "status": "In Progress",
+      "date": "2026-10-11"
+    },
+    {
+      "id": 103,
+      "customer": "Arun Kumar",
+      "phone": "Redmi Note 12",
+      "issue": "Charging Issue",
+      "status": "Completed",
+      "date": "2026-10-12"
+    },
+    {
+      "id": 104,
+      "customer": "Sneha Patel",
+      "phone": "Realme Narzo 60",
+      "issue": "Software Update",
+      "status": "Pending",
+      "date": "2026-10-12"
+    },
+    {
+      "id": 105,
+      "customer": "Kiran Kumar",
+      "phone": "OnePlus Nord CE",
+      "issue": "Display Problem",
+      "status": "In Progress",
+      "date": "2026-10-12"
+    }
+  ]
+}
